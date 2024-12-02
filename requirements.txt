@@ -173,7 +173,6 @@ olefile==0.47
 oletools==0.60.1
 ollama==0.2.1
 onnxruntime==1.18.0
-open-webui
 opencv-python==4.10.0.82
 opencv-python-headless==4.9.0.80
 openpyxl==3.1.2
