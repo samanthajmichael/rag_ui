@@ -239,7 +239,7 @@ python-multipart==0.0.9
 python-socketio==5.11.2
 pytube==15.0.0
 pytz==2024.1
-pywin32==306
+pywin32
 pywinpty==2.0.13
 pyxlsb==1.0.10
 PyYAML
