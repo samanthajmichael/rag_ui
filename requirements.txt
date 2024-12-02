@@ -151,7 +151,7 @@ mdurl==0.1.2
 mistune==3.0.2
 mkl-fft
 mkl-random
-mkl-service==2.4.0
+mkl-service
 mmh3==4.1.0
 monotonic==1.6
 mpmath
